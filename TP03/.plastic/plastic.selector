@@ -1,0 +1,4 @@
+repository "TP03@Thomatoketch@cloud"
+  path "/"
+    br "/main"
+    co "/main"
